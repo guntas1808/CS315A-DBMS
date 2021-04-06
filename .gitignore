@@ -1,0 +1,13 @@
+Assignment_1/data/query_dumps/sqlite/*
+Assignment_1/data/query_dumps/mariadb/*
+Assignment_1/data/query_dumps/mariadb_indexed/*
+Assignment_1/data/query_dumps/mongodb/*
+
+Assignment_1/data/sqlite3_db/*
+
+!Assignment_1/data/query_dumps/sqlite/.gitkeep
+!Assignment_1/data/query_dumps/mariadb/.gitkeep
+!Assignment_1/data/query_dumps/mariadb_indexed/.gitkeep
+!Assignment_1/data/query_dumps/mongodb/.gitkeep
+
+!Assignment_1/data/sqlite3_db/.gitkeep
